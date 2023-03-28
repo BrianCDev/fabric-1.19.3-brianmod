@@ -17,6 +17,9 @@ public class ModItems {
     public static final Item AMETHYST = registerItem("amethyst",
             new Item(new FabricItemSettings()));
 
+    public static final Item RAW_AMETHYST = registerItem("raw_amethyst",
+            new Item(new FabricItemSettings()));
+
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, new Identifier(BrianMod.MOD_ID, name), item);
     }
@@ -24,6 +27,7 @@ public class ModItems {
     //set items group
     public static void addItemsToItemGroup() {
         addToItemGroup(ModItemGroup.BRIANMOD, AMETHYST);
+        addToItemGroup(ModItemGroup.BRIANMOD, RAW_AMETHYST);
     }
 
     private static void addToItemGroup(ItemGroup group, Item item) {
