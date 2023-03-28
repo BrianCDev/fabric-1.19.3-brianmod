@@ -5,5 +5,14 @@
   "block.brianmod.amethyst_block": "Amethyst Block",
   "block.brianmod.amethyst_ore": "Amethyst Ore",
 
+
+  "block.brianmod.amethyst_log": "Amethyst Log",
+  "block.brianmod.amethyst_wood": "Amethyst Wood",
+  "block.brianmod.stripped_amethyst_log": "Stripped Amethyst Log",
+  "block.brianmod.stripped_amethyst_wood": "Stripped Amethyst Wood",
+  "block.brianmod.amethyst_planks": "Amethyst Planks",
+  "block.brianmod.amethyst_leaves": "Amethyst Leaves",
+  "block.brianmod.amethyst_sapling": "Amethyst Sapling",
+
   "itemgroup.brianmodgroup": "Brian's Mod Group"
 }

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "brianmod:block/amethyst_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "brianmod:block/amethyst_wood"
+    },
+    "axis=z": {
+      "model": "brianmod:block/amethyst_wood",
+      "x": 90
+    }
+  }
+}

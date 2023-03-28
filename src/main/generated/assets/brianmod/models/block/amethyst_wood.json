@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "brianmod:block/amethyst_log",
+    "side": "brianmod:block/amethyst_log"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "brianmod:block/amethyst_sapling"
+  }
+}

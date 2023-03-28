@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "brianmod:amethyst_log",
+    "brianmod:amethyst_wood",
+    "brianmod:amethyst_planks",
+    "brianmod:stripped_amethyst_log",
+    "brianmod:stripped_amethyst_wood"
+  ]
+}
