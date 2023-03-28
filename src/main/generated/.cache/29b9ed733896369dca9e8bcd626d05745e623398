@@ -1,0 +1,9 @@
+// 1.19.3	2023-03-28T12:26:35.6980634	Brian Mod/Model Definitions
+f0226523c4390722d74d4cc94b8acc06aa4813d0 assets\brianmod\blockstates\amethyst_block.json
+bf7479cd75318cefb26df6f4b36f558391174f10 assets\brianmod\models\item\amethyst_block.json
+9746738c950087c0018f3d36f50b9ee5d7febc7e assets\brianmod\models\item\raw_amethyst.json
+a5e05d86b7f753239d94ada63e9f18e4a3f46e71 assets\brianmod\models\block\amethyst_block.json
+962830a8853f9fa314e9d5501b25bf6dd036e33c assets\brianmod\models\item\amethyst_ore.json
+cb9146009438653ed704ee93f4862cdd0d8b58f2 assets\brianmod\blockstates\amethyst_ore.json
+323d0392b873ea3ed2ba974cb48b55e3b4745ab4 assets\brianmod\models\block\amethyst_ore.json
+877c160c0d288b055b8104b54464f630f1bd7066 assets\brianmod\models\item\amethyst.json

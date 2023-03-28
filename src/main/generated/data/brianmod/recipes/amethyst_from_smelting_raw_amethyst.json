@@ -1,7 +1,9 @@
 {
   "type": "minecraft:smelting",
+  "category": "misc",
   "cookingtime": 200,
   "experience": 0.3,
+  "group": "brianmodgroup",
   "ingredient": {
     "item": "brianmod:raw_amethyst"
   },

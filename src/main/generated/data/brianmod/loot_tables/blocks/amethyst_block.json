@@ -11,7 +11,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "brianmod:raw_amethyst"
+          "name": "brianmod:amethyst_block"
         }
       ],
       "rolls": 1.0
